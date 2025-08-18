@@ -1,29 +1,124 @@
-<h1 align="center">Hi 👋, I'm PrinceYadav</h1>
-<h3 align="center">A passionate fullStack developer from India</h3>
+<h1 align="center">Hi, I'm Aditya Ranjan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="princeyadav001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeyadav001" alt="princeyadav001" /></a> </p>
-
-- 🌱 I’m currently learning **js**
-
-- 👨‍💻 All of my projects are available at [https://princeyadav001.netlify.app/](https://princeyadav001.netlify.app/)
-
-- 💬 Ask me about **web stacks**
-
-- 📫 How to reach me **prince041670@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prince-yadav-331bb5298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-yadav-331bb5298" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/slow_spell_85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="slow_spell_85" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;MERN+Stack+Web+Developer;Pro+DSA+Solver;Devops+Enthusiast;Blockchain+and+Web+3.0;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=adityaranjan2005&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub profile views of adityaranjan2005" style="float: left; margin-right: 100px;" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyadav001&show_icons=true&locale=en&layout=compact" alt="princeyadav001" /></p>
+<p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeyadav001&show_icons=true&locale=en" alt="princeyadav001" /></p>
+<p><a href="https://twitter.com/adi_sayyss" target="_blank" style="float: right; margin-left: 100px;">
+    <img src="https://img.shields.io/twitter/follow/adi_sayyss?logo=twitter&style=for-the-badge" alt="adi_sayyss Twitter followers" />
+  </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeyadav001&" alt="princeyadav001" /></p>
+---
+
+## &nbsp;🏆 GitHub Profile Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityaranjan2005&theme=juicyfresh&no-bg=true" />
+
+## 👨‍💻  &nbsp;About Me 
+- 📈 I'm **Multilingual** coder
+- 🌱 I’m currently learning **Data Structure and Algorithm, Devops and WEB 3.0**
+- 💻 **5⭐** on **HackerRank** in **Python, SQL**
+- 📫 Feel free to contact me : **103ranjanadityakishu@gmail.com**
+- ⚡ Fun fact **I am memer and formula 1 lover**
+
+</p>
+
+## 📈  &nbsp;Technical Skills and Expertise
+**Programming Languages:**
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,c,java,ts,solidity,matlab)](https://skillicons.dev)
+
+
+**Front-end Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,threejs,html,css)](https://skillicons.dev)
+
+
+**Back-end Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=express,flask,nodejs,jenkins,appwrite)](https://skillicons.dev)
+
+
+**Databases:**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+
+**Version Control & Collaboration:**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,obsidian,replit)](https://skillicons.dev)
+
+
+**Cloud Platforms:**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,firebase,netlify,vercel)](https://skillicons.dev)
+
+
+**Design & Prototyping:**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
+
+
+**Data Visualization:**
+
+[![My Skills](https://skillicons.dev/icons?i=d3)](https://skillicons.dev)
+
+
+**Development Tools:**
+
+[![My Skills](https://skillicons.dev/icons?i=babel,anaconda,visualstudio,vscode,idea,npm,postman)](https://skillicons.dev)
+
+
+**3D Modeling & CAD:**
+
+[![My Skills](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev)
+
+
+**Containerization & Orchestration:**
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+
+
+**State Management:**
+
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+
+<p>
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left"> 
+<a href="https://github.com/adityaranjan2005"> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityaranjan2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+<img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaranjan2005&layout=compact&langs_count=8&theme=algolia"/> 
+</a>
+</p>
+
+## 🔥 Streak Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥" alt="Aditya's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaranjan2005&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
+
+## 🙋‍♀️ Let's Connect
+
+<p align="center">
+	<a href="https://linktr.ee/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/adityaranjan2005" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/adityaranjan2005/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<a href="https://www.x.com/adi_sayyss/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
+	<a href="mailto:103ranjanadityakishu@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+
+## &nbsp;🏆 Holopin board 
+[![@adityaranjan2005's Holopin board](https://holopin.me/adityaranjan2005)](https://holopin.io/@adityaranjan2005)
