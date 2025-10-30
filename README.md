@@ -28,9 +28,17 @@
 
 ### 🤝 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/prince-yadav-331bb5298" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.codechef.com/users/slow_spell_85" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/></a>
+  <a href="https://linkedin.com/in/prince-yadav-331bb5298" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/slow_spell_85" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/princeyadav001/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" alt="LeetCode"/>
+  </a>
 </p>
+
 
 ---
 
