@@ -1,59 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36454F&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Prince+Yadav;A+Passionate+FullStack+Developer;Open+Source+Contributor;Lifelong+Learner+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00ADB5&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Prince+Yadav;Full+Stack+Developer+🚀;MERN+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+💡" />
 </h1>
 
-<h3 align="center">🌍 From India | 💻 Full Stack Developer | 🚀 Always Exploring</h3>
+<h3 align="center">🌍 India | 💻 Full Stack Developer | 🚀 Building Real-World Projects</h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeyadav001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=princeyadav001&label=Profile%20views&color=00adb5&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=princeyadav001&theme=tokyonight&margin-w=10&row=1&column=7" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=princeyadav001&theme=algolia&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently learning **JavaScript & MERN Stack**  
-- 👨‍💻 Check my projects at [Portfolio](https://princeyadav001.netlify.app/)  
-- 💬 Ask me about **Web Stacks, Full-Stack Development**  
-- 📫 Reach me at **prince041670@gmail.com**  
+## 🚀 About Me  
+
+- 🎓 B.Tech CSE Student (2027 Passout)  
+- 🌱 Currently mastering **MERN Stack & DSA (Java)**  
+- 🔥 Passionate about building **real-world scalable web apps**  
+- 💡 Exploring **AI + Web Integration Projects**  
+- 🎯 Goal: Crack top product-based company  
 
 ---
 
-### 🤝 Connect with Me  
+## 🧠 Tech Stack  
+
 <p align="center">
-  <a href="https://linkedin.com/in/prince-yadav-331bb5298" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/slow_spell_85" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/princeyadav001/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40" alt="LeetCode"/>
-  </a>
-</p>
-
-
----
-
-### 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,nodejs,express,mongodb,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity  
+## 🌟 Featured Projects  
+
+🚀 **Campus Connect**  
+👉 https://campus-connect-jp4w.onrender.com/  
+- Full-stack student collaboration platform  
+- Real-time interaction & networking  
+
+💻 **Portfolio Website**  
+👉 https://princeyadav001.netlify.app/  
+- Personal developer portfolio  
+- Clean UI + responsive design  
+
+🧠 **Upcoming Projects**  
+- AI-powered Learning Platform  
+- Green Technology Marketplace  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=princeyadav001&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyadav001&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princeyadav001&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
@@ -62,8 +65,38 @@
 
 ---
 
-### 🎉 Fun GIF Zone  
+## 🤝 Connect With Me  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <a href="https://linkedin.com/in/prince-yadav-331bb5298">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/slow_spell_85">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/princeyadav001/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
+  </a>
 </p>
+
+---
+
+## 🎯 Current Focus  
+
+- 🚀 Mastering **Full Stack Development (MERN)**
+- 📚 Practicing **DSA daily (Java)**
+- 🤖 Exploring **AI + Web Projects**
+- 🌍 Contributing to **Open Source**
+
+---
+
+## ⚡ Fun Zone  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+</p>
+
+---
+
+<h3 align="center">✨ "Code. Build. Learn. Repeat." ✨</h3>
