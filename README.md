@@ -1,133 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=PRINCE%20YADAV&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<pre>
+██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
+██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
+██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗
+██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝
+██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
+╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+</pre>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=root%40prince%3A~%24+whoami;%3E+Software+Engineer+%7C+DSA+Enthusiast;%3E+Building+AI+Agents+%26+Full-Stack+Systems;%3E+01010100 01110010 01100001 01101110 01110011 01101101 01101001 01110100 01110100 01101001 01101110 01100111..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+booting+dev_environment...+%5BOK%5D;%3E+loading+skills.dll...+%5BOK%5D;%3E+user%3A+PRINCE_YADAV+%7C+access%3A+granted" alt="boot sequence" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceYadav001&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/PrinceYadav001?style=for-the-badge&color=2c5364&labelColor=0f2027&logo=github)](https://github.com/PrinceYadav001?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027)](https://www.linkedin.com/in/prince-yadav-331bb5298)
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
 
 </div>
 
----
+<table align="center">
+<tr>
+<td width="40%" valign="top">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9ff&height=3&section=header&animation=twinkling" width="100%"/>
-</div>
-
-### `> ./system_info.sh --live`
-
-```yaml
-name:        Prince Yadav
-role:        Student @ Galgotias University
-stack:       MERN / MEN | Java | Python
-focus:       Full-Stack Web Dev · Competitive Programming · AI Agents
-current_ops: Campus_Connect (peer-to-peer academic problem solving)
-status:      >>> receiving packets... compiling knowledge... deploying builds
-uptime:      99.9% caffeinated
-locale:      IN (UTC +05:30)
+```ini
+[neofetch]
+OS         : Human.exe (India Build)
+Host       : Galgotias University
+Kernel     : DSA + Web Dev v2026
+Shell      : /bin/mern
+Editor     : VS Code
+Languages  : Java, C++, Python, JS
+Frameworks : React, Node, Express
+Database   : MongoDB
+Uptime     : 3+ yrs building things
+Packages   : 28 repos, 9 starred
+Status     : ● online — shipping code
 ```
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrinceYadav001&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
-</div>
+</td>
+<td width="60%" valign="top">
+
+**// root@prince : ~ $ cat about.md**
+
+I build full-stack systems and untangle algorithmic
+problems for fun. Currently deep in the MEN stack
+(MongoDB · Express · Node) shipping **Campus Connect**,
+a peer-to-peer academic problem-solving platform —
+and training AI agents with **Agno + Groq LLM**.
+
+Competitive programming keeps my fundamentals sharp:
+segment trees, greedy strategies, modular arithmetic,
+and squeezing constant factors out of O(n log n).
+
+```diff
++ currently building   : Campus Connect (MEN stack)
++ currently exploring   : Multi-agent AI systems
++ ask me about          : DSA, MERN, LLM tooling
+! fun fact              : I comment code only when it lies to me
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&section=header&animation=twinkling" width="100%"/>
-</div>
 
-### `> ./tech_stack --scan`
+**// root@prince : ~ $ ls -la ./tech_stack/**
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,py,js,react,nodejs,express,mongodb,html,css,git,github,vscode,linux,figma,powerbi&theme=dark&perline=8" />
-
-<br/>
-
-![MEN Stack](https://img.shields.io/badge/MEN_Stack-00F5FF?style=flat-square&logo=mongodb&logoColor=white&labelColor=0f2027)
-![DSA](https://img.shields.io/badge/DSA-Segment_Trees_%7C_Greedy_%7C_Modular_Arithmetic-2c5364?style=flat-square&labelColor=0f2027)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Groq_%7C_Agno_%7C_LLM-00F5FF?style=flat-square&labelColor=0f2027)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9ff&height=3&section=header&animation=twinkling" width="100%"/>
-</div>
-
-### `> ./github_stats --render --refresh=auto`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrinceYadav001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&ring_color=2c5364" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceYadav001&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceYadav001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceYadav001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&area_color=2c5364" width="98%"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,react,nodejs,express,mongodb,html,css,git,github,vscode,linux,figma&theme=dark&perline=8" />
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**// root@prince : ~ $ ./stats.sh**
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrinceYadav001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="100%"/>
+
+</td>
+<td width="50%">
+
+**// root@prince : ~ $ ./streak.sh**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceYadav001&theme=highcontrast&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&section=header&animation=twinkling" width="100%"/>
+
+**// root@prince : ~ $ ./langs.sh --top**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceYadav001&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" width="45%"/>
+
 </div>
 
-### `> ./featured_builds --top --deploying`
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
 
 <div align="center">
 
-[![Campus Connect](https://github-readme-stats.vercel.app/api/pin/?username=PrinceYadav001&repo=Campus_Connect&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9)](https://github.com/PrinceYadav001/Campus_Connect)
-[![PrepWise AI](https://github-readme-stats.vercel.app/api/pin/?username=PrinceYadav001&repo=PrepWise-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9)](https://github.com/PrinceYadav001/PrepWise-AI)
+**// root@prince : ~ $ ./trophies.sh --unlock**
 
-[![Agno AI Agents](https://github-readme-stats.vercel.app/api/pin/?username=PrinceYadav001&repo=Agno-AI-Agents&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9)](https://github.com/PrinceYadav001/Agno-AI-Agents)
-[![DSA with Java](https://github-readme-stats.vercel.app/api/pin/?username=PrinceYadav001&repo=DSA-WITH-JAVA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9)](https://github.com/PrinceYadav001/DSA-WITH-JAVA)
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceYadav001&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
-- 🎓 **Campus Connect** — Peer-to-peer academic problem-solving platform on the MEN stack (MongoDB, Express, Node) with EJS, co-built with Sahil Ahmad.
-- 🤖 **PrepWise AI** — AI-powered placement prep platform generating interview questions & company-specific prep material.
-- 🧠 **Agno AI Agents** — Multi-agent systems using the Agno framework, Groq LLM, web search & finance tools.
-- 🧮 **DSA with Java** — Structured problem-solving covering greedy algorithms, segment trees, and modular arithmetic.
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
+
+### `// root@prince : ~ $ ./deployed_projects --list`
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🎓 Campus Connect**
+Peer-to-peer academic problem-solving platform · MEN stack + EJS · co-built with Sahil Ahmad
+[`→ open repo`](https://github.com/PrinceYadav001/Campus_Connect)
+
+</td>
+<td width="50%">
+
+**🧠 Agno AI Agents**
+Multi-agent systems using Agno framework, Groq LLM, web search & finance tools
+[`→ open repo`](https://github.com/PrinceYadav001/Agno-AI-Agents)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 PrepWise AI**
+AI-powered placement prep — company data, interview Qs, hiring processes
+[`→ open repo`](https://github.com/PrinceYadav001/PrepWise-AI)
+
+</td>
+<td width="50%">
+
+**🧮 DSA with Java**
+Greedy algorithms, segment trees, modular arithmetic — problem set in progress
+[`→ open repo`](https://github.com/PrinceYadav001/DSA-WITH-JAVA)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c9ff&height=3&section=header&animation=twinkling" width="100%"/>
-</div>
 
-### `> ./contribution_grid --animate --live`
+### `// root@prince : ~ $ ./contribution_map --render`
 
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚙️ This grid animates live once the <code>snk</code> GitHub Action is added to this repo — ask and I'll generate the workflow file for you.</sub>
+<sub>⚙️ activates automatically once the <code>snk</code> Action is wired up in this repo</sub>
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%" height="2px">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&section=header&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+socket+open+%3A%3A+awaiting+connection..." alt="footer terminal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1800&pause=600&color=00F5FF&center=true&vCenter=true&width=700&height=40&lines=%3E%3E%3E+connection+established+%3A%3A+awaiting+input+_" alt="terminal footer" />
+### `// root@prince : ~ $ ./connect.sh`
 
-### `> ./connect --socials`
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/prince-yadav-331bb5298)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/PrinceYadav001)
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceYadav001&color=39FF14&style=for-the-badge&label=VISITORS)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/prince-yadav-331bb5298)
-[![GitHub](https://img.shields.io/badge/-GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/PrinceYadav001)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+```
+[process exited with code 0]
+```
 
 </div>
