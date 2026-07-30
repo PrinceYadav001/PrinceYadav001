@@ -1,38 +1,30 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello,+I'm+Prince+Yadav!%22);npm+run+dev+--MERN;Building+Scalable+Solutions;" alt="Typing SVG" />
-</div>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:12FFFF,100:6B00FF&height=180&section=header&text=PRINCE%20YADAV.dev&fontSize=50&fontColor=ffffff&fontAlign=center&animation=wave&stroke=0:ffffff,100:00FFD1" alt="CyberHeader" width="100%" /></p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FFD1&background=00000000&center=true&vCenter=true&width=800&height=60&lines=init+->+user:+Prince+Yadav+['27];class:+AI+&+MERN+Architect;status:+Building+Scalable+Agents;401++Contributions+Generated;function:+Cracking+Product+Companies+🚀;focus:+AI+Integration|DSA|Web" alt="Dynamic Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prince-yadav-331bb5298">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/princeyadav001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/slow_spell_85">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=princeyadav001&label=Profile%20views&color=00FF9D&style=flat-square" alt="Views"/>
+  <a href="#github-telemetry"><img src="https://komarev.com/ghpvc/?username=princeyadav001&label=Profile%20views&color=00FFD1&style=for-the-badge&logo=git&logoColor=black" alt="Views"/></a>
+  <a href="https://github.com/princeyadav001?tab=followers"><img src="https://img.shields.io/github/followers/princeyadav001?style=for-the-badge&color=6B00FF&logo=github&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/princeyadav001?tab=stars"><img src="https://img.shields.io/github/stars/princeyadav001?style=for-the-badge&color=00A8FF&logo=starship&logoColor=black" alt="Stars"/></a>
 </p>
 
 ---
 
-## 👨‍💻 `whoami`
+## 🧬 > whoami [SYSTEM_LOG_01]
 
-```json
-{
-  "name": "Prince Yadav",
-  "education": {
-    "degree": "B.Tech in Computer Science and Engineering",
-    "university": "Galgotias University",
-    "graduation_year": 2027,
-    "current_cgpa": 8.38
-  },
-  "technical_arsenal": ["MERN Stack", "Java", "Data Structures & Algorithms", "System Design", "IoT"],
-  "achievements": [
-    "Smart India Hackathon 2025 - National Finalist (IoT Flood Prediction)",
-    "Solved 500+ Problems on LeetCode"
-  ],
-  "current_mission": "Cracking Product-Based Companies & Mastering AI/Web Integration"
-}
+<p align="center">
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ5amw2dzcyNWhqZW9wZnZkaHhtZ3ptOTVnbXp2cWNxaXZ3cXpybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" height="240" alt="CyberDev"/>
+</p>
+
+```bash
+root@YadavTerminal: ~whoami
+
+[ Identity ]: Prince Yadav
+[ Function ]: Full Stack & AI Integrator
+[ Origin ]: B.Tech CSE Undergrad @ Galgotias University // Class of 2027
+[ Core_Directive ]: Developing High-Performance, AI-Powered Web Applications
+[ Logic_Weaver ]: DSA (Java) // System Design Enthusiast
+[ Quantum_Nexus ]: Agno Framework, Groq LLM, Streamlit & MERN Stack
+[ Protocol_Goal ]: Accelerating towards Elite Product-Based Roles 🎯
