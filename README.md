@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=root%40prince%3A~%23+whoami;MERN+%2F+MEN+Stack+Developer;Competitive+Programmer;SIH+2025+National+Finalist" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39FF14,100:0D1117&height=220&section=header&text=PRINCE%20YADAV&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=MERN%2FMEN%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=root%40prince%3A~%23+whoami;%3E+SIH+2025+National+Finalist;%3E+500%2B+LeetCode+Problems+Solved;%3E+Building+AI+Agents+%26+Full-Stack+Systems" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=PrinceYadav001&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -17,40 +21,54 @@
 [1;32mStatus[0m: Shipping something, probably three somethings
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&width=100%" width="100%"/>
+
 <br>
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/-Tech_Stack-000000?style=flat-square" />
+### ⚡ Tech Arsenal
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=39FF14)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+<img src="https://skillicons.dev/icons?i=js,java,py,nodejs,express,mongodb,react,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&width=100%" width="100%"/>
+
 <br>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrinceYadav001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+
+### 📊 Live Metrics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrinceYadav001&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceYadav001&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-</div>
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceYadav001&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" />
+
 <img src="https://leetcard.jacoblin.cool/prince_yadav_85?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<img src="https://streak-stats.demolab.com?user=PrinceYadav001&theme=dark&background=0D1117&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=PrinceYadav001&theme=dark&background=0D1117&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&width=100%" width="100%"/>
 
 <br>
 
-### <img src="https://img.shields.io/badge/-Featured_Builds-000000?style=flat-square" />
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrinceYadav001&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&width=100%" width="100%"/>
+
+<br>
+
+### 🚀 Featured Builds
 
 | Project | Stack | What it does |
 |---|---|---|
@@ -61,17 +79,23 @@
 | **[RiverEye](https://github.com/PrinceYadav001/RiverEye)** | TypeScript | — |
 | **[DSA-WITH-JAVA](https://github.com/PrinceYadav001/DSA-WITH-JAVA)** | Java | Structured GfG DSA solutions organized by difficulty |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39FF14,100:0D1117&height=3&width=100%" width="100%"/>
+
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PrinceYadav001/PrinceYadav001/output/snake.svg" alt="snake animation" />
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/PrinceYadav001/PrinceYadav001/output/snake.svg" alt="snake animation" width="100%"/>
+
 </div>
 
 <br>
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/-Connect-000000?style=flat-square" />
+### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/prince-yadav-331bb5298)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14)](https://leetcode.com/prince_yadav_85)
@@ -81,3 +105,5 @@
 `// 500+ problems solved · national finalist · always compiling`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39FF14,100:0D1117&height=120&section=footer" width="100%"/>
