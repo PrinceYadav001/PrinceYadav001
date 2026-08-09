@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 B.Tech CSE undergrad (Class of 2027) at Galgotias University, building full-stack systems on the MERN/MEN stack and exploring multi-agent AI.<br>🏆 National Finalist at Smart India Hackathon 2025 for an IoT-based flood prediction system.<br>💻 500+ problems solved on LeetCode, always chasing the optimal solution before the easy one.<br>🧠 Currently deep in distributed AI systems and applied mathematics — trying to build things that don't just work, but scale.<br>⚡ Fun fact: I generate new project ideas faster than I finish old ones — currently working on fixing that.
-
+🚀 B.Tech CSE undergraduate (Class of 2027) at Galgotias University, building full-stack systems on the MERN stack.<br>🏆 Ranked in the Top 50 at my college's internal hackathon.<br>💻 250+ problems solved on LeetCode, with a continued focus on optimal solutions over quick ones.<br>🧠 Currently exploring distributed AI systems and applied mathematics — aiming to build things that scale, not just work.<br>⚡ Fun fact: I generate new project ideas faster than I finish existing ones — actively working on that.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-331bb5298/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Prince_Yadav-z8k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prince01access@gmail.com)
 
