@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a B.Tech Computer Science undergraduate at Galgotias University (Class of 2027) with a strong passion for building scalable systems and solving complex algorithmic challenges. 
 
@@ -52,8 +52,6 @@ I am a B.Tech Computer Science undergraduate at Galgotias University (Class of 2
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceYadav001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=PrinceYadav001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
 </div>
 
 ---
