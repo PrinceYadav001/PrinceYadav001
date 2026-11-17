@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Prince Yadav 👋</h1>
-  <h3>Full-Stack Developer | Distributed Systems Enthusiast | CSE '27</h3>
+  <h3>Full-Stack Web Developer | DSA Problem Solver | CSE '27</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/prince-yadav-331bb5298/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,15 +11,15 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I am a B.Tech Computer Science undergraduate at Galgotias University (Class of 2027) with a strong passion for building scalable systems and solving complex algorithmic challenges. 
+I am a B.Tech Computer Science undergraduate at Galgotias University (Class of 2027) with a strong passion for building interactive web systems and solving complex algorithmic challenges. 
 
-- 💻 **Development:** Specializing in robust full-stack applications using the **MERN stack**.
-- 🧠 **Current Focus:** Exploring **Distributed AI Systems** and **Applied Mathematics** — with a goal to build software that scales efficiently.
+- 💻 **Development:** Specializing in robust full-stack web applications using the **MERN stack**.
+- 🧠 **Current Focus:** Deep diving into **Data Structures & Algorithms (DSA)** in Java and engineering scalable backend systems.
 - 🏆 **Achievements:** Ranked in the **Top 50** at the university's internal hackathon.
-- 📊 **Problem Solving:** Solved **250+ problems on LeetCode**, prioritizing highly optimal algorithms over quick fixes.
-- ⚡ **Mindset:** Constantly generating and iterating on new project ideas, with a strong focus on taking concepts from ideation to production.
+- 📊 **Problem Solving:** Solved **500+ DSA problems** across platforms (including 300+ on LeetCode with a Peak Rating of **1522**), prioritizing highly optimal algorithms over quick fixes.
+- ⚡ **Mindset:** Constantly generating and iterating on new project ideas, with a strong focus on taking web concepts from ideation to production.
 
 ---
 
@@ -51,7 +51,6 @@ I am a B.Tech Computer Science undergraduate at Galgotias University (Class of 2
 <br>
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceYadav001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
-</div>
 </div>
 
 ---
